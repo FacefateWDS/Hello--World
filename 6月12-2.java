@@ -25,7 +25,7 @@ public class Test {
 		System.out.println(name.equalsIgnoreCase("Name"));
 		System.out.println(name.endsWith("e"));
 		System.out.println(name.compareTo("a"));//如果大于字符串name,为正数
-		System.out.println(name.startsWith("am",1));//索引是第二个数
+		System.out.println(name.startsWith("am",1));//索引是第二个数,对于有两个的首尾的,应当是后面的最后一个不算
 		System.out.println(name.length());//中间空格也算
 		System.out.println(name.toUpperCase());
 		/*
