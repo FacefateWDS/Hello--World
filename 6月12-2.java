@@ -47,3 +47,16 @@ public class Test {
 		
 	}
 }
+//结果
+// test.Test@7852e92222
+// false
+// false
+// true
+// -65
+// false
+// 5
+//  NAME
+// name
+// ame
+//  mame
+// me
